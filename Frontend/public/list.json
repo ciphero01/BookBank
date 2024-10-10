@@ -1,0 +1,75 @@
+[{
+  "id": 1,
+  "name": "Atomic Habits",
+  "title": "James Clear ",
+  "price": 50,
+  "category": "free",
+  "image": "https://m.media-amazon.com/images/I/419aJfhczCL._SY445_SX342_.jpg"
+  
+},
+{
+  "id": 2,
+  "name": "Rich Dad",
+  "title": "Robert T. Kiyosaki ",
+  "price": 50,
+  "category": "free",
+  "image": "https://m.media-amazon.com/images/I/51Hfv2MfNGL._SY445_SX342_.jpg"
+},
+{
+  "id": 3,
+  "name": "The Power",
+  "title": "Joseph Murphy",
+  "price": 50,
+  "category": "free",
+  "image": "https://m.media-amazon.com/images/I/51QnuLIY2uL._SY445_SX342_.jpg"
+},
+{
+  "id": 4,
+  "name": "Blossom",
+  "title": "DR APJ ABDUL KALAM ",
+  "price": 50,
+  "category": "movie",
+  "image": "https://m.media-amazon.com/images/I/71RatA+9EzL._SY466_.jpg"
+},
+{
+  "id": 5,
+  "name": "Wings Of Fire",
+  "title": "DR APJ ABDUL KALAM",
+  "price": 50,
+  "category": "food",
+  "image": "https://m.media-amazon.com/images/I/61MR-YfM4CL._SY466_.jpg"
+},
+{
+  "id": 6,
+  "name": "Stop Overthinking",
+  "title": "Nick Trenton",
+  "price": 50,
+  "category": "lib",
+  "image": "https://m.media-amazon.com/images/I/81TwewImvVL._SY466_.jpg"
+},
+{
+  "id": 7,
+  "name": "The art of being alone",
+  "title": "Renuka Gavrani",
+  "price": 50,
+  "category": "dance",
+  "image": "https://m.media-amazon.com/images/I/41WNdeN6gsL._SY445_SX342_.jpg"
+},
+{
+  "id": 8,
+  "name": "11 Rules of Life",
+  "title": "Chetan Bhagat",
+  "price": 50,
+  "category": "free",
+  "image": "https://m.media-amazon.com/images/I/41pyHp6YiGL._SY445_SX342_.jpg"
+  
+
+},
+{
+  "id": 9,
+  "name": "You Can",
+  "title": "George Matthew Adams",
+  "price": 50,
+  "category": "free",
+  "image": "https://m.media-amazon.com/images/I/41AnbvGOT3L._SY445_SX342_.jpg"
+}]
